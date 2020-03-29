@@ -16,8 +16,24 @@ Clicking it will redirect you to the Google Colab notebooks where you can run th
 
 After clicking on "Authorize" follow the instruction to log into the GitHub.
 
+**Step 2. Select the runtime type**
 
+Sometimes you will need to use a GPU.
+To do that, in the colab notebook select "Runtime" -> "Change runtime type"
+
+![step 2a](imgs/colab_step_2_a.png)
+![step 2b](imgs/colab_step_2_b.png)
+
+Choose the type that you'd like:
+- `None` runs the notebook only on CPU
+- `GPU` / `TPU` runs the notebook on gpu/tpu
+
+**Step 3. Edit and Run**
 You can edit any cell in the notebook by double clicking it.
+You can run individual cells or an entire notebook using the "Runtime" menu.
+You can also run the currently selected notebook using `Shift+Enter`.
+
+[step 3](imgs/colab_step_3.png)
 
 ## TODOs
 
