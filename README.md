@@ -10,39 +10,39 @@ It will be changed as I progress
 1. Primer
     1. Mathematics -- this might or might not come
     1. PyTorch
-        1. [Basics](00-Primer/PyTorch/01-Basics.ipynb)
+        1. [Basics](00-Primer/PyTorch/Basics.ipynb)
         1. Training-and-Testing
 1. Basic-Neural-Networks
-    1. Binary-Classification.ipynb
-    1. Multiclass-Classification.ipynb
-    1. Regression.ipynb
+    1. Binary-Classification
+    1. Multiclass-Classification
+    1. Regression
 1. Common-Routines-for-Machine-Learning
-    1. Data-Manipulation.ipynb
-    1. Evaluating-Models.ipynb
+    1. Data-Manipulation
+    1. Evaluating-Models
 1. Deep-Learning-for-Computer-Vision
-    1. Introduction-to-Convolutional-NNs.ipynb
-    1. Transfer-Learning.ipynb
-    1. Visualizing-ConvNets.ipynb
+    1. Introduction-to-Convolutional-NNs
+    1. Transfer-Learning
+    1. Visualizing-ConvNets
 1. Deep-Learning-for-Sequences
-    1. Encoding-Text.ipynb
-    1. Recurrent-NN.ipynb
-    1. Sequence-Processing-with-CNN.ipynb
-    1. Transformer-and-Seq2Seq.ipynb
+    1. Encoding-Text
+    1. Recurrent-NN
+    1. Sequence-Processing-with-CNN
+    1. Transformer-and-Seq2Seq
 1. Deep-Generative-Networks
-    1. Generating-Text.ipynb
-    1. Style-Transfer-Images.ipynb
-    1. Variational-Autoencoders.ipynb
-    1. Generative-Adversarial-Networks.ipynb
+    1. Generating-Text
+    1. Style-Transfer-Images
+    1. Variational-Autoencoders
+    1. Generative-Adversarial-Networks
 1. Reinforcement-Learning
-    1. Stock-Trading-using-RL.ipynb
-    1. Game-Playing.ipynb
+    1. Stock-Trading-using-RL
+    1. Game-Playing
 1. Deploying-Models
-    1. Serving-from-a-Cloud.ipynb
-    1. PyTorch-Mobile-Android.ipynb
-    1. PyTorch-Mobile-iOS.ipynb
+    1. Serving-from-a-Cloud
+    1. PyTorch-Mobile-Android
+    1. PyTorch-Mobile-iOS
 1. Advanced-Topics
-    1. Quantization.ipynb
-    1. Federated-Learning.ipynb
+    1. Quantization
+    1. Federated-Learning
 
 ## Instructions -- Running in Colab
 
