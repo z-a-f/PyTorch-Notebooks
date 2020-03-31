@@ -11,38 +11,38 @@ It will be changed as I progress
     1. Mathematics -- this might or might not come
     1. PyTorch
         1. [Basics](00-Primer/PyTorch/Basics.ipynb)
-        1. Training-and-Testing
-1. Basic-Neural-Networks
-    1. Binary-Classification
-    1. Multiclass-Classification
+        1. [Training](00-Primer/PyTorch/Training.ipynb)
+1. Basic Neural Networks
+    1. Binary Classification
+    1. Multiclass Classification
     1. Regression
-1. Common-Routines-for-Machine-Learning
-    1. Data-Manipulation
-    1. Evaluating-Models
-1. Deep-Learning-for-Computer-Vision
-    1. Introduction-to-Convolutional-NNs
-    1. Transfer-Learning
-    1. Visualizing-ConvNets
-1. Deep-Learning-for-Sequences
-    1. Encoding-Text
-    1. Recurrent-NN
-    1. Sequence-Processing-with-CNN
-    1. Transformer-and-Seq2Seq
-1. Deep-Generative-Networks
-    1. Generating-Text
-    1. Style-Transfer-Images
-    1. Variational-Autoencoders
-    1. Generative-Adversarial-Networks
-1. Reinforcement-Learning
-    1. Stock-Trading-using-RL
-    1. Game-Playing
-1. Deploying-Models
-    1. Serving-from-a-Cloud
-    1. PyTorch-Mobile-Android
-    1. PyTorch-Mobile-iOS
-1. Advanced-Topics
+1. Common Routines for Machine Learning
+    1. Data Manipulation
+    1. Evaluating Models
+1. Deep Learning for Computer Vision
+    1. Introduction to Convolutional NNs
+    1. Transfer Learning
+    1. Visualizing ConvNets
+1. Deep Learning for Sequences
+    1. Encoding Text
+    1. Recurrent NN
+    1. Sequence Processing with CNN
+    1. Transformer and Seq2Seq
+1. Deep Generative Networks
+    1. Generating Text
+    1. Style Transfer Images
+    1. Variational Autoencoders
+    1. Generative Adversarial Networks
+1. Reinforcement Learning
+    1. Stock Trading using RL
+    1. Game Playing
+1. Deploying Models
+    1. Serving from a Cloud
+    1. PyTorch Mobile Android
+    1. PyTorch Mobile iOS
+1. Advanced Topics
     1. Quantization
-    1. Federated-Learning
+    1. Federated Learning
 
 ## Instructions -- Running in Colab
 
