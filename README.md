@@ -2,6 +2,9 @@
 
 This is a set of tutorials that I will be releasing (hopefully) weekly.
 
+## TODOs
+
+
 ## Table of Contents
 
 This is a planned table of contents.
@@ -11,6 +14,7 @@ It will be changed as I progress
     1. Mathematics -- this might or might not come
     1. PyTorch
         1. [Basics](00-Primer/PyTorch/Basics.ipynb)
+        1. [Torch Packages](00-Primer/PyTorch/PyTorch-Packages.ipynb)
         1. [Training](00-Primer/PyTorch/Training.ipynb)
 1. Basic Neural Networks
     1. Binary Classification
@@ -129,10 +133,3 @@ jupyter notebook
 
 Which will open a browser window with the list of the directories and notebooks.
 You can open an appropriate notebook by clicking on it.
-
-## TODOs
-
-1. Write up the documentation on
-  1. Installation instructions
-  2. How to use Jupyter Notebooks in Colab
-
